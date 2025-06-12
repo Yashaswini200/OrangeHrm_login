@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/babus/IdeaProjects/login_orangehrm/src/test/java/org/example/Login_TestCase.java"><classes><class name="org.example.Login_TestCase"><methods><include name="testValidLogin"/><include name="testInvalidPassword"/></methods></class></classes></test></suite>
